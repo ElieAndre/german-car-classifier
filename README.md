@@ -12,7 +12,7 @@ Welcome to the German Car Classifier repository! This project features an advanc
 
 - **app.py:** The primary script to launch the classifier locally using Gradio.
 - **germancarclassifier.ipynb:** Jupyter notebook detailing the model training process, from data collection to evaluation.
-- **example1.jpg, example2.jpg, ...:** Sample images included for testing the model's accuracy.
+- **bmw.jpg, mercedes.jpg, audi.jpg, vw.jpg, porsche.jpg** Sample images included for testing the model's accuracy.
 
 ## 🚀 Getting Started
 
